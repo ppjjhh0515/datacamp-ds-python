@@ -1,0 +1,5 @@
+'''
+From the automobiles data set, which value corresponds to the median value of the 'mpg' column? Your job is to select the 'mpg' column and call the .median() method on it. The automobile DataFrame has been provided as df.
+'''
+
+Statistical exploratory data analysis
